@@ -1,4 +1,4 @@
-# baz_dumpsters
+# free_donuts
 
 [NOTES]
 
@@ -17,6 +17,6 @@
 1) Download: https://github.com/Bazookan/baz_dumpsters
 
 2) Add this in your server.cfg :
-``ensure baz_dumpstersearch``
+``ensure free_donuts``
 
 3) All done!
